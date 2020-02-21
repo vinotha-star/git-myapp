@@ -1,0 +1,60 @@
+me="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 i<?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 i<?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 <?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 <?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 iiii<?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 <?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 <?xml version="1.0"?>
+<project name="HelloWorld" default="hello">
+   <target name="hello">
+       <echo>Hello, World!</echo>
+   </target>
+</project>
+
+Raymond  2:23 ~
+~
+~
+~
+iiii
